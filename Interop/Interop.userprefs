@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B022E4EA-AC84-479B-8DA8-3D70614796B5}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Excel\Program.cs">
+    <Files>
+      <File FileName="Excel\Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Excel PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
